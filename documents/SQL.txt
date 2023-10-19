@@ -1,0 +1,1 @@
+CREATE TABLE Meals (mealID integer NOT NULL, strMeal varchar(255), strCategory varchar(255), strArea varchar(255), strInstructions varchar(2550), mealProjections integer, PRIMARY KEY (mealID));
